@@ -1,0 +1,1 @@
+{"questions_stem":"Array.prototype.unique = function(){\n    var result = [];\n    var len = this.length;\n    for(var i = 0; i<len; i++){\n        if(result.indexOf(this[i])<0){\n            result.push(this[i]);\n        }\n    }\n    return result;\n}\nvar arr = [1,2,3,2,1,3,2,1];\narr.unique();","questions_answer":"数组去重","questions_id":"sdxwl-5wej9-v76zy2-h3ayh"}

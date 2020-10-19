@@ -1,0 +1,1 @@
+{"questions_stem":"请实现以下需求：\n1. 声明一个变量a = 10；\n2. 声明一个变量b，b的值永远自动的保持为a的2倍；\n\n效果如下，\nvar a = 10;\nvar b;\n// 自行实现绑定\n\n最后打印的结果如下：\nconsole.log(a); // 10\nconsole.log(b); // 20\n\na = 30;\nconsole.log(a); // 30\nconsoel.log(b); // 60","questions_answer":"略","questions_id":"txtcbb-7qmgwa-kwpbgu-08tn5qe"}

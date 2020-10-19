@@ -1,0 +1,1 @@
+{"questions_stem":"通过冒泡排序实现[5,4,3,2,1]的正序排列","questions_answer":"\nvar array = [5, 4, 3, 2, 1];\nvar temp = 0;\nfor (var i = 0; i <array.length; i++){\nfor (var j = 0; j <array.length - i; j++){\nif (array[j] > array[j + 1]){\ntemp = array[j + 1];\narray[j + 1] = array[j];\narray[j] = temp;\n }\n}\n","questions_id":"mytd0p-2nqdre-oevuva-efvm7k"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/tao/www/react-exam/src/components/EditQuestions/index.module.css","15.29707cd5.chunk.css"],"names":[],"mappings":"AAGA,iCACI,eCCJ","file":"15.29707cd5.chunk.css","sourcesContent":[".footBtn{\n    \n}\n.titleInput{\n    max-width:500px;\n}",".EditQuestions_footBtn__1iEN8{\n    \n}\n.EditQuestions_titleInput__2vtZ2{\n    max-width:500px;\n}\n"]}

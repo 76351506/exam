@@ -1,0 +1,1 @@
+{"questions_stem":"优先队列是一种元素带权重的队列，你可以往队列中添加和删除元素，但是删除元素的时候会把优先级最高的元素删除。例如：\n```\nconst pq = new PriorityQueue()\npq.add(1)\npq.add(2)\npq.add(3)\n\npq.remove() // => 3\npq.remove() // => 2\npq.remove() // => 1\n```\nremove 方法每次删除的时候都会把最大的元素删除掉，并且返回被删除元素。请你完成 PriorityQueue 的实现。\n\n服务器运行时间限制：20ms。","questions_answer":"敬请期待","questions_id":"ufrk9a-phi5vh-yv5i3r-q5j3sp"}
