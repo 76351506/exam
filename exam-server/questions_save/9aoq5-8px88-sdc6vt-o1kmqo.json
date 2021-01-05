@@ -1,1 +1,0 @@
-{"questions_stem":"var a = 100;\n function fn1() { \n  alert(a); \n   var a = 10;\n}  \n alert( fn1() );\n页面会弹出几次，以及每次是什么结果","questions_answer":"俩undefined","questions_id":"9aoq5-8px88-sdc6vt-o1kmqo"}

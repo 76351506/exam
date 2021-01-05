@@ -1,1 +1,0 @@
-{"questions_stem":"写出IE与非IE的阻止冒泡的方法","questions_answer":"ie:阻止冒泡ev.cancelBubble = true;非IE ev.stopPropagation();  ","questions_id":"dcjefi-ggybue-7wq92-hooc88"}

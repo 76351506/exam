@@ -1,1 +1,0 @@
-{"questions_stem":"封装一个函数可以使得n维数组转换为1维数组，输出","questions_answer":"        function shiftArray(arr) {\n            while(arr.some(item => Array.isArray(item))){\n                arr = [].concat(...arr);\n            }\n            return arr\n        }\n        shiftArray([1, [2, [2], [5, [8]], [3, [4]]]])","questions_id":"60gn1-9nj3mi-hv4xz-t6ecp"}

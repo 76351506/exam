@@ -1,1 +1,0 @@
-{"questions_stem":"现在有两段代码，请指出它们分别代表什么意思？\n\n第一段代码\n```js\nvar obj = {\n  a:obj\n}\n```\n\n第二段代码\n\n```js\nvar obj = {}\nobj.a = obj;\n```","questions_answer":"敬请期待","questions_id":"sd5nuo-fzbhl-g3cy69-ua5hyd"}

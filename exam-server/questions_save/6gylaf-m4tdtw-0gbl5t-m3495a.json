@@ -1,1 +1,0 @@
-{"questions_stem":"现在有一个数组，其中的元素全部都是数字。请判断这个数组中的数字是否都全部相等。\n\n示例 1\n```\nvar arr = [1,2,3,11,1,1]\n返回 false\n```\n示例 2\n```\nvar arr1 = [1,1,1,1,1,1]\n返回 true\n```\n","questions_answer":"敬请期待","questions_id":"6gylaf-m4tdtw-0gbl5t-m3495a"}
